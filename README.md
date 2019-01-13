@@ -102,5 +102,5 @@ http://www.baeldung.com/java-conflict-free-replicated-data-types
 
 http://www.baeldung.com/java-kafka-streams 
 
- 
+https://www.baeldung.com/hbase
  
